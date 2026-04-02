@@ -20,4 +20,4 @@ A simple Java project to calculate properties of basic shapes.
    GeometryProject
 
 ## 🔹 Author
-Manmath Gopanpalle
+Manmath Gopanpalle (Aspire devloper)
